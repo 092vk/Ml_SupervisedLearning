@@ -11,7 +11,19 @@
 
 
 # Unsupervised Machine Learning 
+# unsupervised models gets trained on unkabelled models , resulting in forming their own labels and patterns for labelling ,and grouping,classifing,clustering data .this is called as unsupervised learning
 
-# this change is being made from remote 
+
+
+# unsupervised Learning :data only comes with x , but not output labels y. Algorithm has to find the structure in the data .
+
+# types of unsupervised learning 
+# 1.clustering --> group similar data together 
+# 2.anomaly detection -->  find unusual data
+# 3.dimensionality reduction --> compress data using fewer numbers
+
+
+
+
 
 
