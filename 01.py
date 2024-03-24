@@ -11,7 +11,7 @@
 
 
 # Unsupervised Machine Learning 
-# unsupervised models gets trained on unkabelled models , resulting in forming their own labels and patterns for labelling ,and grouping,classifing,clustering data .this is called as unsupervised learning
+# unsupervised models gets trained on unlabelled models , resulting in forming their own labels and patterns for labelling ,and grouping,classifing,clustering data .this is called as unsupervised learning
 
 
 
